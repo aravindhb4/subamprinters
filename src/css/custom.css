@@ -1,0 +1,392 @@
+body{
+	position: relative;
+	font-family: 'Josefin Slab', serif;
+	font-weight: 900 !important;
+}
+.logo{
+	background-image: url("../images/logo.png");
+	height: 60px;
+	width: 80px;
+	background-size:85%;
+	background-repeat: no-repeat;
+	margin: 5px !important;
+	padding: 0;
+}
+.navbar{
+	height: 70px;
+	background: rgba(255, 255, 255, 0.5);
+	border-bottom: none;
+}
+nav .container-fluid{
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+ul.nav.navbar-nav{
+	float:right;
+	height: 70px;
+}
+ul.nav.navbar-nav li{
+	height: 70px;
+	padding: 10px 0px;
+}
+ul.nav.navbar-nav li a, ul.nav.navbar-nav li a.active{
+	padding: 10px 0px;
+	margin: 7px;
+	color: #000 !important;
+	text-transform: uppercase;
+}
+ul.nav.navbar-nav li.active a, ul.nav.navbar-nav > li.active > a:hover, ul.nav.navbar-nav li.active a:focus{
+	background-color: transparent;	
+}
+ul.nav.navbar-nav > li > a:after{
+	content: "";
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    height: 1px;
+    background-color: #000;
+    width: 0;
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+ul.nav.navbar-nav > li > a:hover:after{
+	width: 100%;
+}
+#Home {
+	background: url(../images/Tiruvannamalai_Temple.jpg) center center no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.opacityLayer {
+	width: 100%;
+	left: 0px;
+	background-color: rgba(0,0,0,0.4);
+	position: absolute;
+	height: inherit;
+}
+#centerTitle {
+	top: -500px;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	-webkit-transition: all 0.9s ease;
+    -moz-transition: all 0.9s ease;
+    -o-transition: all 0.9s ease;
+    -ms-transition: all 0.9s ease;
+    transition: all 0.9s ease;
+}
+#centerTitle.animate{
+	top: 40%;
+}
+#centerTitle h1, .sectionTitle{
+	font-size: 44px;
+}
+.thin{
+	font-weight: normal;
+}
+.orange{
+	color: #FFC42D;
+}
+.white{
+	color: #fff;
+}
+.bold{
+	font-weight: bold;
+}
+.sectionTitle {
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 5%;
+}
+.flip-container {
+	min-height: 200px;
+	padding:0;
+}
+.flip-container:hover .flippInner {
+	transform: rotateY(180deg);
+}
+.flippInner {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	position: relative;
+}
+.front, .back {
+	backface-visibility: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+.back {
+	transform: rotateY(180deg);
+}
+.front, .back {
+	width: 100%;
+	min-height: 200px;
+	background-size: cover !important;
+}
+#Samples {
+	margin: 0% 2% 5%;
+}
+#ContactUs, .iconDiv {
+	padding: 0;
+	background-color: rgb(83,83,83);
+}
+#ContactUs .container{
+	width: 100%;
+	padding: 0% 2% 2%;
+	margin: 0;
+	color: #fff;
+}
+#ContactUs .wrapper{
+	padding : 0 2% 0 0;
+}
+#ContactUs .wrapper h3{
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+#ContactUs .content{
+	font-weight: 200;
+	font-size: 10px;
+}
+#ContactUs .content .links{
+	color: #fff;
+	text-transform: uppercase;
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+	letter-spacing: 1.4px;
+}
+.iconContainer {
+	width: 96% !important;
+	margin: 0 2% !important;
+	padding: 0 !important;
+	border-top: 1px solid #fff;
+}
+.iconDiv {
+	padding: 20px 0;
+	text-align: center;
+}
+.marginB20 {
+	margin-bottom: 20px;
+}
+.marginB10 {
+	margin-bottom: 10px;
+}
+.buttonDiv {
+	display: inline;
+}
+.buttonDiv div.innerButtonDiv{
+	list-style: none;
+	text-align: center;
+	width: 100%;
+	min-height: 50px;
+}
+.buttonDiv div.innerButtonDiv div.buttons{
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 15px 25px;
+	border: 1px solid rgb(83,83,83);
+	cursor: pointer;
+	width: 200px;
+	display: inline-block;
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.servicesOfferedDiv .buttonDiv div.innerButtonDiv div.buttons, .machinesUsedDiv .buttonDiv div.innerButtonDiv div.buttons{
+    margin: 0;
+}
+.machinesUsedDiv .buttonDiv{
+	padding-top: 80px !important;
+}
+.servicesOfferedDiv .buttonDiv, .machinesUsedDiv .buttonDiv{
+    display: block;
+	padding-top: 20px;
+}
+.buttonDiv div.innerButtonDiv div.buttons:hover{
+	background-color: #FFC42D;
+	border: 1px solid #FFC42D;
+	color: #fff;
+}
+.sectionContainer .sectionContainerTitle, .sectionInnerContainer .sectionInnerContainerTitle{
+	text-align: center;
+	text-transform: uppercase;
+}
+.sectionContainer .sectionContainerTitle:after {
+	border-bottom: 1px solid #FFC42D;
+}
+.sectionInnerContainer {
+	padding: 10px 15px;
+	min-height: 280px;
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.sectionInnerContainer:hover {
+	box-shadow: 7px 8px 20px #ccc;
+}
+.servicesOfferedDiv, .machinesUsedDiv {
+	padding: 0 20px 20px;
+
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+#modalTitle {
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+#modalBody {
+	margin-top: 30px;
+}
+.modalBodyTitle, .serviceTitle {
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 3%;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#machineDiv, .sectionInnerContainer .buttons {
+	margin: 0;
+}
+.machineName, p.machineBenefits, p.machineFeatures {
+	font-size: 18px;
+	font-weight: bold;
+}
+.machineborder {
+	border-top: 1px solid #000;
+    width: 97.4%;
+    margin: 1.4%;
+}
+.modal .buttons {
+	margin: 20px 0 0 0;
+}
+.serviceTitleCenter {
+	text-align: center;
+	margin-top: 120px;
+}
+.sectionContainer:hover{
+	display: block;
+}
+.orangeBG {
+	background-color : #FFC42D;
+}
+.sandalBG {
+	background-color : #F9EBC7;
+}
+.grayBG {
+	background-color : #b3b3b5;
+}
+#populateServicesDiv .sectionInnerContainer, #populateContactDetailsDiv .sectionInnerContainer {
+	background-color: rgba(255, 196, 45, 0.4);
+	background-size: cover;
+}
+
+/* jssor slider bullet navigator skin 05 css */
+/*
+.jssorb05 div           (normal)
+.jssorb05 div:hover     (normal mouseover)
+.jssorb05 .av           (active)
+.jssorb05 .av:hover     (active mouseover)
+.jssorb05 .dn           (mousedown)
+*/
+.jssorb05 {
+	position: absolute;
+}
+.jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+	position: absolute;
+	/* size of bullet elment */
+	width: 16px;
+	height: 16px;
+	background: url('../images/b05.png') no-repeat;
+	overflow: hidden;
+	cursor: pointer;
+}
+.jssorb05 div { background-position: -7px -7px; }
+.jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+.jssorb05 .av { background-position: -67px -7px; }
+.jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+
+/* jssor slider arrow navigator skin 22 css */
+/*
+.jssora22l                  (normal)
+.jssora22r                  (normal)
+.jssora22l:hover            (normal mouseover)
+.jssora22r:hover            (normal mouseover)
+.jssora22l.jssora22ldn      (mousedown)
+.jssora22r.jssora22rdn      (mousedown)
+.jssora22l.jssora22lds      (disabled)
+.jssora22r.jssora22rds      (disabled)
+*/
+.jssora22l, .jssora22r {
+	display: block;
+	position: absolute;
+	/* size of arrow element */
+	width: 40px;
+	height: 58px;
+	cursor: pointer;
+	background: url('../images/a22.png') center center no-repeat;
+	overflow: hidden;
+}
+.jssora22l { background-position: -10px -31px; }
+.jssora22r { background-position: -70px -31px; }
+.jssora22l:hover { background-position: -130px -31px; }
+.jssora22r:hover { background-position: -190px -31px; }
+.jssora22l.jssora22ldn { background-position: -250px -31px; }
+.jssora22r.jssora22rdn { background-position: -310px -31px; }
+.jssora22l.jssora22lds { background-position: -10px -31px; opacity: .3; pointer-events: none; }
+.jssora22r.jssora22rds { background-position: -70px -31px; opacity: .3; pointer-events: none; }

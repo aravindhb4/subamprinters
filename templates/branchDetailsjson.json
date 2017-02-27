@@ -1,0 +1,112 @@
+[
+	{
+		"branchName": "Tiruvannamalai&nbsp;(Head Office)",
+		"branchNameModal": "Tiruvannamalai",
+		"Incharge": "B.Meena",
+		"Address": "39/1, Kosamada Street, Tiruvannamalai.",
+		"PhoneNo": "04175 - 253781",
+		"CellNo": "9345763087",
+		"Email": "subamtvm@gmail.com",
+		"Services": ["All Occasion Cards","Greeting Cards","Visiting Cards","Post Cards"],
+		"Machines": ["Xerox Duo Color","HP DesignJet"],
+		"multiColorOffsetPrinting" : ["Wedding Cards", "All Occasion Cards", "Greeting Cards", "Visiting Cards", "Post Cards", "Certificates", "ID Cards", "Batches", "Files/Folders", "Covers/Letterpads", "Booklets", "Handbooks", "Bill Books" ,"Journals", "Posters"],
+		"otherServices" : ["Multicolour Printing", "Digital Printing", "Single Colour Printing", "Screen Printing", "Heidelberg 5 Colour Printing", "CTP", "Lamination", "Die-cutting", "Cover Making", "All Types of Binding", "A0 Xerox", "A0 Colour Print", "Rubber Stamp", "Designing", "Mini Offset Printing"],
+		"machineDetails" : [
+			{
+				"machineName" : "XEROX DOCUCOLOR 5252",
+				"machineBenefits" : "<p>Delivers production-class feeding, finishing, and document capture capabilities in an affordable solution</p><p>Provides an economical printing solution through minimal operator involvement and longer periods of unattended operation</p><p>Produces excellent image quality driven by a choice of color servers</p><p>Wide array of supported media lets you produce a broader range of applications</p><p>Provides a choice of three industry-leading color servers to meet your workflow requirements</p>",
+				"machineFeatures" : "<p>Provides superior front-to-back and color-to-color registration for outstanding image quality</p><p>Prints at up to 52 ppm, 600 x 600 dpi Handles extra-heavy stocks and large paper sizes for full-bleed 11” x 17” jobs</p><p>Digital scanner captures and stores up to 300 11” x 17” full-color documents</p><p>Optional Enhanced High Capacity Stacker provides production stacking capabilities in a smaller footprint and at a more affordable cost</p>"
+			},
+			{
+				"machineName" : "HP DESIGNJET T2300",
+				"machineBenefits" : "<p>Boost efficiency with the first web-connected printer with MFP benefits. Scan and share with HP Designjet ePrint & Share to help increase collaboration, save time, and streamline workflows.</p><p>AEC professionals who need a web-connected printer with MFP benefits for easy sharing among local and mobile team members and partners</p>",
+				"machineFeatures" : "<p>Easy, powerful printing</p><p>Streamline your workflow with one-click print, scan, and copy capabilities</p><p>Get trusted, secure connectivity with built-in Gigabit Ethernet, advanced access control, and IPv6 and IPsec.</p><p>Print TIFF, JPEG, and PDF2 files from your printer's touchscreen or a USB thumb drive—no computer required.</p><p>Process files in parallel for efficient printing with a 160 GB hard disk.</p>"
+			}
+		]
+	},
+	{
+		"branchName": "Chennai",
+		"branchNameModal": "Chennai",
+		"Incharge": "Ranjith",
+		"Address": "7/45 E, Police Office Road, (Opp to Joint Commissioner of Police Office)&nbsp;St.Thomas Mount, Chennai.600 016.",
+		"PhoneNo": "044-22317781, 9443226781",
+		"CellNo": "9367163087",
+		"Email": "chennaisubam@gmail.com",
+		"Services": ["All Occasion Cards","Greeting Cards","Visiting Cards","Post Cards"],
+		"Machines": ["Xerox Duo Color","HP DesignJet"],
+		"multiColorOffsetPrinting" : ["Wedding Cards", "All Occasion Cards", "Greeting Cards", "Visiting Cards", "Post Cards", "Certificates", "ID Cards", "Batches", "Files/Folders", "Covers/Letterpads", "Booklets", "Handbooks", "Bill Books" ,"Journals", "Posters"],
+		"otherServices" : ["Multicolour Printing", "Digital Printing", "Single Colour Printing", "Screen Printing", "Heidelberg 5 Colour Printing", "CTP", "Lamination", "Die-cutting", "Cover Making", "All Types of Binding", "A0 Xerox", "A0 Colour Print", "Rubber Stamp", "Designing", "Mini Offset Printing"],
+		"machineDetails" : [
+			{
+				"machineName" : "HEIDELBERG SPEEDMASTER SM 74",
+				"machineBenefits" : "<p>The Speedmaster SM 74 two- and four-color models are the ideal presses for print shops with a professional approach to satisfying growing customer requirements or a desire to grow in a changed market environment. The Speedmaster SM 74 now boasts an extended range of standard features geared specifically to the needs of these print shops. Combining successful Speedmaster technology with attractive conditions, it offers reliability in production and investment security by delivering high print quality, reliability, and value retention</p><p>The Speedmaster SM 74 processes a wide range of substrates - from lightweight paper to board. It also benefits from extremely user-friendly and ergonomic operation. The Prinect Press Center Compact with its innovative Intellistart process-oriented operator guidance system enables straightforward and precise machine control. The feeder with suction tape, which is unique in its class, optimizes sheet transport. Automation components such as AutoPlate or automatic, programmable washup devices minimize makeready times. The Prinect Easy Control color measuring system, which is fully integrated into the machine control station, reduces paper waste levels. And the delivery - either a compact standard unit or a convenient high-pile model - ensures perfect stacking for rapid finishing.</p>",
+				"machineFeatures" : "<p>The high energy and resource efficiency of the Speedmaster SM 74 make it the most environmentally friendly press in its class. Star System peripherals perfectly coordinated with the press benefit from highly efficient operation and conserve resources. </p>"
+			},
+			{
+				"machineName" : "CTP",
+				"machineBenefits" : "<p>Computer to plate (CTP) is an imaging technology used in modern printing processes. In this technology, an image created in a Desktop Publishing (DTP) application is output directly to a printing plate.</p>",
+				"machineFeatures" : "<p>CTP methods differ according to the construction type of the imagesetter and the light source used to expose the plate surface. In terms of construction type there are three different kinds: internal drum, external drum and flat-bed imagesetters. The two main light sources used to expose the plate are ultraviolet light lamps and laser diodes. The wavelength and energy of the laser diodes depend on the type of plate that is used. This technology is mainly use in newspaper and magazine printing.</p>"
+			}
+		]
+	},
+	{
+		"branchName": "Pudhucherry",
+		"branchNameModal": "Pudhucherry",
+		"Incharge": "S.Baskar",
+		"Address": "248, Thiruvalluvar Salai, Puducherry.",
+		"PhoneNo": "044-22317781",
+		"CellNo": "9361763088",
+		"Email": "subampondy@gmail.com",
+		"Services": ["All Occasion Cards","Greeting Cards","Visiting Cards","Post Cards"],
+		"Machines": ["Xerox Duo Color","HP DesignJet"],
+		"multiColorOffsetPrinting" : ["Wedding Cards", "All Occasion Cards", "Greeting Cards", "Visiting Cards", "Post Cards", "Certificates", "ID Cards", "Batches", "Files/Folders", "Covers/Letterpads", "Booklets", "Handbooks", "Bill Books" ,"Journals", "Posters"],
+		"otherServices" : ["Multicolour Printing", "Digital Printing", "Single Colour Printing", "Screen Printing", "Heidelberg 5 Colour Printing", "CTP", "Lamination", "Die-cutting", "Cover Making", "All Types of Binding", "A0 Xerox", "A0 Colour Print", "Rubber Stamp", "Designing", "Mini Offset Printing"],
+		"machineDetails" : [
+			{
+				"machineName" : "XEROX DOCUCOLOR 5000",
+				"machineBenefits" : "<p>Amaze even your most demanding customers with outstanding image quality that sets a standard in its class.</p><p>Handle a wide range of high-revenue applications at excellent speeds on a broad range of media Enable highly efficient, profitable digital printing by integrating with the Xerox FreeFlow™ Digital Workflow collection.</p><p>Find the perfect fit for your business with a choice of 3 color servers plus optional feeding, finishing, and scanning modules</p>",
+				"machineFeatures" : "<p>Print at speeds up to 50 ppm. Outstanding productivity with heavy weight and coated papers: feed all weights and sizes from all trays, with no decrease in print speed up to 220 g/m2 / 80 lb</p><p>Exceptional image quality with 2400 x 2400 dpi resolution and VCSEL technology Modular finishing options with High-Capacity Stacker and Common Stacker/Stapler that can be used individually or combined</p><p>Wide media latitude, including heavy-weight, coated stocks, and specialty media substrates User-friendly interface gives you job control and operator information</p>"
+			}
+		]
+	},
+	{
+		"branchName": "Villupuram",
+		"branchNameModal": "Villupuram",
+		"Incharge": "N.Sivakumar",
+		"Address": "No. 23-A, Rajagopal Street, Villupuram.",
+		"PhoneNo": "044-22317781",
+		"CellNo": "9367163086",
+		"Email": "subamvillupuram@gmail.com",
+		"Services": ["All Occasion Cards","Greeting Cards","Visiting Cards","Post Cards"],
+		"Machines": ["Xerox Duo Color","HP DesignJet"],
+		"multiColorOffsetPrinting" : ["Wedding Cards", "All Occasion Cards", "Greeting Cards", "Visiting Cards", "Post Cards", "Certificates", "ID Cards", "Batches", "Files/Folders", "Covers/Letterpads", "Booklets", "Handbooks", "Bill Books" ,"Journals", "Posters"],
+		"otherServices" : ["Multicolour Printing", "Digital Printing", "Single Colour Printing", "Screen Printing", "Heidelberg 5 Colour Printing", "CTP", "Lamination", "Die-cutting", "Cover Making", "All Types of Binding", "A0 Xerox", "A0 Colour Print", "Rubber Stamp", "Designing", "Mini Offset Printing"],
+		"machineDetails" : [
+			{
+				"machineName" : "XEROX DOCUCOLOR 5252",
+				"machineBenefits" : "<p>Delivers production-class feeding, finishing, and document capture capabilities in an affordable solution Provides an economical printing solution through minimal operator involvement and longer periods of unattended operation Produces excellent image quality driven by a choice of color servers.</p><p>Wide array of supported media lets you produce a broader range of applications Provides a choice of three industry-leading color servers to meet your workflow requirements</p>",
+				"machineFeatures" : "<p>Provides superior front-to-back and color-to-color registration for outstanding image quality Prints at up to 52 ppm, 600 x 600 dpi Handles extra-heavy stocks and large paper sizes for full-bleed 11” x 17” jobs Digital scanner captures and stores up to 300 11” x 17” full-color documents Optional Enhanced High Capacity Stacker provides production stacking capabilities in a smaller footprint and at a more affordable cost</p>"
+			}
+		]
+	},
+	{
+		"branchName": "Vellore",
+		"branchNameModal": "Vellore",
+		"Incharge": "Balaji",
+		"Address": "No. 5B, Chunnambukara Street, Vellore.",
+		"PhoneNo": "044-22317781",
+		"CellNo": "9345763083",
+		"Email": "subamvellore@gmail.com",
+		"Services": ["All Occasion Cards","Greeting Cards","Visiting Cards","Post Cards"],
+		"Machines": ["Xerox Duo Color","HP DesignJet"],
+		"multiColorOffsetPrinting" : ["Wedding Cards", "All Occasion Cards", "Greeting Cards", "Visiting Cards", "Post Cards", "Certificates", "ID Cards", "Batches", "Files/Folders", "Covers/Letterpads", "Booklets", "Handbooks", "Bill Books" ,"Journals", "Posters"],
+		"otherServices" : ["Multicolour Printing", "Digital Printing", "Single Colour Printing", "Screen Printing", "Heidelberg 5 Colour Printing", "CTP", "Lamination", "Die-cutting", "Cover Making", "All Types of Binding", "A0 Xerox", "A0 Colour Print", "Rubber Stamp", "Designing", "Mini Offset Printing"],
+		"machineDetails" : [
+			{
+				"machineName" : "XEROX DOCUCOLOR 5252",
+				"machineBenefits" : "<p>Delivers production-class feeding, finishing, and document capture capabilities in an affordable solution Provides an economical printing solution through minimal operator involvement and longer periods of unattended operation Produces excellent image quality driven by a choice of color servers.</p><p>Wide array of supported media lets you produce a broader range of applications Provides a choice of three industry-leading color servers to meet your workflow requirements</p>",
+				"machineFeatures" : "<p>Provides superior front-to-back and color-to-color registration for outstanding image quality Prints at up to 52 ppm, 600 x 600 dpi Handles extra-heavy stocks and large paper sizes for full-bleed 11” x 17” jobs Digital scanner captures and stores up to 300 11” x 17” full-color documents Optional Enhanced High Capacity Stacker provides production stacking capabilities in a smaller footprint and at a more affordable cost</p>"
+			}
+		]
+	}
+]
